@@ -157,7 +157,7 @@ Actual result:
 
 Screenshot:
 
-![Test 2 : Search without a query](screenshots/test-2-search-no-query.png)
+![Test 2: Search without a query](Screenshots/test-2-search-no-query.png)
 
 ### 3. Invalid student ID
 
