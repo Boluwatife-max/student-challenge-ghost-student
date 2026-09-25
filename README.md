@@ -177,7 +177,7 @@ Actual result:
 
 Screenshot:
 
-![Test 3 : Invalid student ID](screenshots/test-3-invalid-student-id.png)
+![Test 3: Invalid student ID](screenshots/test-3-invalid-student-id.png)
 
 ### 4. Valid-looking but nonexistent student ID
 
@@ -197,7 +197,7 @@ Actual result:
 
 Screenshot:
 
-![Test 4 - Student not found](screenshots/test-4-student-not-found.png)
+![Test 4: Student not found](screenshots/test-4-student-not-found.png)
 
 ### 5. Update student course
 
@@ -225,7 +225,7 @@ Actual result:
 
 Screenshot:
 
-![Test 5 - Update student course](screenshots/test-5-update-course.png)
+![Test 5: Update student course](screenshots/test-5-update-course.png)
 
 ### 6. Invalid course validation
 
@@ -253,7 +253,7 @@ Actual result:
 
 Screenshot:
 
-![Test 6 - Invalid course validation](screenshots/test-6-invalid-course.png)
+![Test 6: Invalid course validation](screenshots/test-6-invalid-course.png)
 
 ### 7. Duplicate email
 
@@ -289,7 +289,7 @@ Actual result:
 
 Screenshot:
 
-![Test 7 - Duplicate email](screenshots/test-7-duplicate-email.png)
+![Test 7: Duplicate email](screenshots/test-7-duplicate-email.png)
 
 ### 8. Delete nonexistent student
 
@@ -309,4 +309,4 @@ Actual result:
 
 Screenshot:
 
-![Test 8 - Delete nonexistent student](screenshots/test-8-delete-not-found.png)
+![Test 8: Delete nonexistent student](screenshots/test-8-delete-not-found.png)
